@@ -475,5 +475,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
 API/appsettings.json
 .vscode/
+*.db-shm
+*.db-wal
